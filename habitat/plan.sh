@@ -37,7 +37,7 @@ do_build() {
 }
 
 do_install() {
-  pip install certbot-dns-route53
+  # pip install certbot-dns-route53
   #local account_path="$svc_data_path/accounts"
   #mkdir -p $account_path
 
