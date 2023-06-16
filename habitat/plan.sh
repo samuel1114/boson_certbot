@@ -1,5 +1,5 @@
 pkg_name=certbot
-pkg_origin=mozillareality
+pkg_origin=pkg_origin
 pkg_maintainer="Mozilla Mixed Reality <mixreality@mozilla.com>"
 pkg_license=('Apache-2.0')
 pkg_upstream_url='https://certbot.eff.org'
